@@ -1,1 +1,7 @@
-# OpenCore-8100B-AsrockB365MITX
+# OpenCore0.7.5-8100B-AsRockB365MITX
+CPU：Intel Core i3 8100B<br/>
+主板: AsRock B365M-ITX/AC<br/>
+显卡：UHD630<br/>
+有线网卡：Intel I219-V2<br/>
+无线网卡：Intel AX200<br/>
+参考了黑果小兵的整合包配置<br/>
